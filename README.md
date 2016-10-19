@@ -2,7 +2,7 @@
 
 ## Use Case Diagram 
  ภาพที่ 1
- ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuUAoAidFpov9jEAooitCAx5II2nMy4tDCr9Gu4fCBialKYZ9puEoG2hpO0fCkBWSKlDIW4O00000)
+ ![](http://www.plantuml.com/plantuml/img/AoufJKdDAr7GrRLJq2XEpiZFpz5Ki598p-U2S20I9Qc9oHcfHPeeWaavYSdPIVc9HIceuYM9IJcfg4B96OcPHPe0)
 
 ภาพที่ 2
 ![](http://www.plantuml.com/plantuml/img/JOwn3i8m34JtViMDTE07Cg3o3S3MnHHBiN3ig343VqyYTM2yftkdMrhG7f-YqrJ40kSBJhU1vYCFy6YCo0ogLMMZ4BSP2LUqGgfGUdBtKxY_Wr9t_gLWvPhTU2ZtB0tILljoWCnxOL_j65ZONlt93m00)
