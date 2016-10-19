@@ -5,7 +5,7 @@
  ![](http://www.plantuml.com/plantuml/img/AoufJKdDAr7GrRLJq2XEpiZFpz5Ki598p-U2S20I9Qc9oHcfHPeeWaavYSdPIVc9HIceuYM9IJcfg4B96OcPHPe0)
 
 ภาพที่ 2
-![](http://www.plantuml.com/plantuml/img/JOwn3i8m34JtViMDTE07Cg3o3S3MnHHBiN3ig343VqyYTM2yftkdMrhG7f-YqrJ40kSBJhU1vYCFy6YCo0ogLMMZ4BSP2LUqGgfGUdBtKxY_Wr9t_gLWvPhTU2ZtB0tILljoWCnxOL_j65ZONlt93m00)
+![](http://www.plantuml.com/plantuml/img/IoujBYdDJIrIqDMrKz38Bqe1CjFoyrCq5RYIKQHI4qiW4cZY1OcLGF4Yc5n6QXf4F3a_Fnj34CbyhkJ4uenCxAO00000)
 
  ภาพที่ 3
  ![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBApSmhiL98B5PmJ04okJH2YrCLIZ9I5PBpSmjAIrABD45o855DBgwI_FpiaaG5cnfTNPZoO911cX0Xg2g7rBmKeD40)
